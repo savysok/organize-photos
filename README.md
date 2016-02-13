@@ -4,6 +4,4 @@ This is a simple bash script to sort your pictures into folders, based on their 
 
 I use this script to sort my Canon 450D camera photos from the SD Card.
 
-All photos must be in the same folder, no recursive folder searching yet.
-
 Requires exiftools and zenity to work.
